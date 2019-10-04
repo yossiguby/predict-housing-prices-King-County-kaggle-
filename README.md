@@ -8,8 +8,9 @@ It's a great dataset for evaluating regression models."
 https://www.kaggle.com/harlfoxem/housesalesprediction
 
 Explanation on the files
-•	king country code.ipynb: The code file
-•	kc_house_summry.xlsx: all the conclusions and the flow of the project
-•	kc_house_data.csv: the raw data
+
+king country code.ipynb: The code file 
+kc_house_summry.xlsx: all the conclusions and the flow of the project
+kc_house_data.csv: the raw data
 
 it was my first project with ML
